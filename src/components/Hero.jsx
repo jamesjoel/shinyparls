@@ -15,6 +15,12 @@ const Hero = () => {
           <div className="swiper-slide">
             <div className="slider_wrap">
               <div className="sld-image">
+                {/* <img
+                  src="/assets/images/slider/slider-1.jpg"
+                  data-src="/assets/images/slider/slider-1.jpg"
+                  alt=""
+                  className="lazyload"
+                /> */}
                 <picture>
                   <source
                     media="(max-width: 375px)"
@@ -39,6 +45,114 @@ const Hero = () => {
                           <span className="fst-italic">DISCOVER</span>
                           <br className="d-none d-sm-block" />
                           OUR COLLECTION
+                        </p>
+                        <p className="sub-title-sld fade-item fade-item-2">
+                          Make a statement with colors and cuts that stand out.
+                          Be bold, be beautiful.
+                        </p>
+                        <div className="fade-item fade-item-3">
+                          <a
+                            href="shop-collection-list.html"
+                            className="tf-btn btn-fill-white animate-btn animate-dark fw-medium"
+                          >
+                            Shop Collection
+                            <i className="icon-arrow-right fs-24"></i>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="swiper-slide">
+            <div className="slider_wrap">
+              <div className="sld-image">
+                {/* <img
+                  src="/assets/images/slider/slider-2.jpg"
+                  data-src="/assets/images/slider/slider-2.jpg"
+                  alt=""
+                  className="lazyload"
+                /> */}
+                <picture>
+                  <source
+                    media="(max-width: 375px)"
+                    srcSet="/assets/images/slider/slider-2-phone.jpg"
+                  />
+                  <source
+                    media="(min-width: 768px)"
+                    srcSet="/assets/images/slider/slider-2.jpg"
+                  />
+                  <img
+                    src="/assets/images/slider/slider-2.jpg"
+                    alt="Responsive"
+                  />
+                </picture>
+              </div>
+              <div className="sld-content">
+                <div className="container">
+                  <div className="row">
+                    <div className="col-12">
+                      <div className="content-sld">
+                        <p className="title-sld lt-sp-t2 font-2 fade-item fade-item-1">
+                          <span className="fst-italic">CRAFTED</span>
+                          <br className="d-none d-sm-block" />
+                          TO DAZZLE
+                        </p>
+                        <p className="sub-title-sld fade-item fade-item-2">
+                          Make a statement with colors and cuts that stand out.
+                          Be bold, be beautiful.
+                        </p>
+                        <div className="fade-item fade-item-3">
+                          <a
+                            href="shop-collection-list.html"
+                            className="tf-btn btn-fill-white animate-btn animate-dark fw-medium"
+                          >
+                            Shop Collection
+                            <i className="icon-arrow-right fs-24"></i>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="swiper-slide">
+            <div className="slider_wrap">
+              <div className="sld-image">
+                {/* <img
+                  src="/assets/images/slider/slider-3.jpg"
+                  data-src="/assets/images/slider/slider-3.jpg"
+                  alt=""
+                  className="lazyload"
+                /> */}
+                <picture>
+                  <source
+                    media="(max-width: 375px)"
+                    srcSet="/assets/images/slider/slider-3-phone.jpg"
+                  />
+                  <source
+                    media="(min-width: 768px)"
+                    srcSet="/assets/images/slider/slider-3.jpg"
+                  />
+                  <img
+                    src="/assets/images/slider/slider-3.jpg"
+                    alt="Responsive"
+                  />
+                </picture>
+              </div>
+              <div className="sld-content">
+                <div className="container">
+                  <div className="row">
+                    <div className="col-12">
+                      <div className="content-sld">
+                        <p className="title-sld lt-sp-t2 font-2 fade-item fade-item-1">
+                          <span className="fst-italic">TIMELESS</span>
+                          <br className="d-none d-sm-block" />
+                          SPARKLE
                         </p>
                         <p className="sub-title-sld fade-item fade-item-2">
                           Make a statement with colors and cuts that stand out.

@@ -5,9 +5,9 @@ const Header = () => {
   return (
     <>
       <div className="tf-topbar bg-main px-0">
-        <div className="infiniteslide_wrap" style={{ overflow: "hidden" }}>
+        <div className="" style={{ overflow: "hidden" }}>
           <div
-            className="infiniteSlide topbar-inner type-sp-2"
+            className="topbar-inner type-sp-2"
             data-style="infiniteslide17476492428082376"
             style={{
               display: "flex",
@@ -102,7 +102,7 @@ const Header = () => {
               style={{ flex: "0 0 auto", display: "block" }}
             ></span>
             <div
-              className="infiniteItem infiniteslide_clone"
+              className="infiniteItem"
               style={{ flex: "0 0 auto", display: "block" }}
             >
               <p className="text-white text-caption-3 text-uppercase fw-medium">
@@ -110,11 +110,11 @@ const Header = () => {
               </p>
             </div>
             <span
-              className="br-line w-24 bg-white infiniteslide_clone"
+              className="br-line w-24 bg-white"
               style={{ flex: "0 0 auto", display: "block" }}
             ></span>
             <div
-              className="infiniteItem infiniteslide_clone"
+              className="infiniteItem"
               style={{ flex: "0 0 auto", display: "block" }}
             >
               <p className="text-white text-caption-3 text-uppercase fw-medium">
@@ -128,11 +128,11 @@ const Header = () => {
               </p>
             </div>
             <span
-              className="br-line w-24 bg-white infiniteslide_clone"
+              className="br-line w-24 bg-white"
               style={{ flex: "0 0 auto", display: "block" }}
             ></span>
             <div
-              className="infiniteItem infiniteslide_clone"
+              className="infiniteItem"
               style={{ flex: "0 0 auto", display: "block" }}
             >
               <p className="text-white text-caption-3 text-uppercase fw-medium">
@@ -140,11 +140,11 @@ const Header = () => {
               </p>
             </div>
             <span
-              className="br-line w-24 bg-white infiniteslide_clone"
+              className="br-line w-24 bg-white"
               style={{ flex: "0 0 auto", display: "block" }}
             ></span>
             <div
-              className="infiniteItem infiniteslide_clone"
+              className="infiniteItem"
               style={{ flex: "0 0 auto", display: "block" }}
             >
               <p className="text-white text-caption-3 text-uppercase fw-medium">
@@ -152,11 +152,11 @@ const Header = () => {
               </p>
             </div>
             <span
-              className="br-line w-24 bg-white infiniteslide_clone"
+              className="br-line w-24 bg-white"
               style={{ flex: "0 0 auto", display: "block" }}
             ></span>
             <div
-              className="infiniteItem infiniteslide_clone"
+              className="infiniteItem"
               style={{ flex: "0 0 auto", display: "block" }}
             >
               <p className="text-white text-caption-3 text-uppercase fw-medium">
@@ -170,11 +170,11 @@ const Header = () => {
               </p>
             </div>
             <span
-              className="br-line w-24 bg-white infiniteslide_clone"
+              className="br-line w-24 bg-white"
               style={{ flex: "0 0 auto", display: "block" }}
             ></span>
             <div
-              className="infiniteItem infiniteslide_clone"
+              className="infiniteItem"
               style={{ flex: "0 0 auto", display: "block" }}
             >
               <p className="text-white text-caption-3 text-uppercase fw-medium">
@@ -182,11 +182,11 @@ const Header = () => {
               </p>
             </div>
             <span
-              className="br-line w-24 bg-white infiniteslide_clone"
+              className="br-line w-24 bg-white"
               style={{ flex: "0 0 auto", display: "block" }}
             ></span>
             <div
-              className="infiniteItem infiniteslide_clone"
+              className="infiniteItem"
               style={{ flex: "0 0 auto", display: "block" }}
             >
               <p className="text-white text-caption-3 text-uppercase fw-medium">
@@ -194,11 +194,11 @@ const Header = () => {
               </p>
             </div>
             <span
-              className="br-line w-24 bg-white infiniteslide_clone"
+              className="br-line w-24 bg-white"
               style={{ flex: "0 0 auto", display: "block" }}
             ></span>
             <div
-              className="infiniteItem infiniteslide_clone"
+              className="infiniteItem"
               style={{ flex: "0 0 auto", display: "block" }}
             >
               <p className="text-white text-caption-3 text-uppercase fw-medium">
@@ -212,11 +212,11 @@ const Header = () => {
               </p>
             </div>
             <span
-              className="br-line w-24 bg-white infiniteslide_clone"
+              className="br-line w-24 bg-white"
               style={{ flex: "0 0 auto", display: "block" }}
             ></span>
             <div
-              className="infiniteItem infiniteslide_clone"
+              className="infiniteItem"
               style={{ flex: "0 0 auto", display: "block" }}
             >
               <p className="text-white text-caption-3 text-uppercase fw-medium">
@@ -224,11 +224,11 @@ const Header = () => {
               </p>
             </div>
             <span
-              className="br-line w-24 bg-white infiniteslide_clone"
+              className="br-line w-24 bg-white"
               style={{ flex: "0 0 auto", display: "block" }}
             ></span>
             <div
-              className="infiniteItem infiniteslide_clone"
+              className="infiniteItem"
               style={{ flex: "0 0 auto", display: "block" }}
             >
               <p className="text-white text-caption-3 text-uppercase fw-medium">
@@ -236,11 +236,11 @@ const Header = () => {
               </p>
             </div>
             <span
-              className="br-line w-24 bg-white infiniteslide_clone"
+              className="br-line w-24 bg-white"
               style={{ flex: "0 0 auto", display: "block" }}
             ></span>
             <div
-              className="infiniteItem infiniteslide_clone"
+              className="infiniteItem"
               style={{ flex: "0 0 auto", display: "block" }}
             >
               <p className="text-white text-caption-3 text-uppercase fw-medium">
@@ -254,11 +254,11 @@ const Header = () => {
               </p>
             </div>
             <span
-              className="br-line w-24 bg-white infiniteslide_clone"
+              className="br-line w-24 bg-white"
               style={{ flex: "0 0 auto", display: "block" }}
             ></span>
             <div
-              className="infiniteItem infiniteslide_clone"
+              className="infiniteItem"
               style={{ flex: "0 0 auto", display: "block" }}
             >
               <p className="text-white text-caption-3 text-uppercase fw-medium">
@@ -266,7 +266,7 @@ const Header = () => {
               </p>
             </div>
             <span
-              className="br-line w-24 bg-white infiniteslide_clone"
+              className="br-line w-24 bg-white"
               style={{ flex: "0 0 auto", display: "block" }}
             ></span>
           </div>
@@ -294,14 +294,14 @@ const Header = () => {
                     <div className="dropdown bootstrap-select tf-dropdown-select style-default type-currencies">
                       <div className="dropdown bootstrap-select tf-dropdown-select style-default type-currencies">
                         <select className="tf-dropdown-select style-default type-currencies">
-                          <option selected="">United States (USD $)</option>
+                          <option>United States (USD $)</option>
                           <option>France (EUR €)</option>
                           <option>Germany (EUR €)</option>
                           <option>Vietnam (VND ₫)</option>
                         </select>
                         <button
                           type="button"
-                          tabindex="-1"
+                          tabIndex="-1"
                           className="btn dropdown-toggle btn-light"
                           data-bs-toggle="dropdown"
                           role="combobox"
@@ -323,7 +323,7 @@ const Header = () => {
                             className="inner show"
                             role="listbox"
                             id="bs-select-1"
-                            tabindex="-1"
+                            tabIndex="-1"
                           >
                             <ul
                               className="dropdown-menu inner show"
@@ -334,7 +334,7 @@ const Header = () => {
                       </div>
                       <button
                         type="button"
-                        tabindex="-1"
+                        tabIndex="-1"
                         className="btn dropdown-toggle btn-light"
                         data-bs-toggle="dropdown"
                         role="combobox"
@@ -356,7 +356,7 @@ const Header = () => {
                           className="inner show"
                           role="listbox"
                           id="bs-select-1"
-                          tabindex="-1"
+                          tabIndex="-1"
                         >
                           <ul
                             className="dropdown-menu inner show"
@@ -377,7 +377,7 @@ const Header = () => {
                         </select>
                         <button
                           type="button"
-                          tabindex="-1"
+                          tabIndex="-1"
                           className="btn dropdown-toggle btn-light"
                           data-bs-toggle="dropdown"
                           role="combobox"
@@ -399,7 +399,7 @@ const Header = () => {
                             className="inner show"
                             role="listbox"
                             id="bs-select-2"
-                            tabindex="-1"
+                            tabIndex="-1"
                           >
                             <ul
                               className="dropdown-menu inner show"
@@ -410,7 +410,7 @@ const Header = () => {
                       </div>
                       <button
                         type="button"
-                        tabindex="-1"
+                        tabIndex="-1"
                         className="btn dropdown-toggle btn-light"
                         data-bs-toggle="dropdown"
                         role="combobox"
@@ -432,7 +432,7 @@ const Header = () => {
                           className="inner show"
                           role="listbox"
                           id="bs-select-2"
-                          tabindex="-1"
+                          tabIndex="-1"
                         >
                           <ul
                             className="dropdown-menu inner show"

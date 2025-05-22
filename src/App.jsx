@@ -21,7 +21,7 @@ const App = () => {
       <div id="wrapper">
         {/* <!-- Top Bar--> */}
         <div className="tf-topbar bg-main px-0">
-          <div className="infiniteSlide topbar-inner type-sp-2">
+          <div className="topbar-inner type-sp-2">
             {/* <!-- 1 --> */}
             <div className="infiniteItem">
               <p className="text-white text-caption-3 text-uppercase fw-medium">
@@ -1504,7 +1504,7 @@ const App = () => {
                         </div>
                         <div className="variant-box bg-primary">
                           <div
-                            className="marquee-sale type-2 infiniteSlide"
+                            className="marquee-sale type-2"
                             data-clone="3"
                           >
                             {/* <!-- clone 1 --> */}

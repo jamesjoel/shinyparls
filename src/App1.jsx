@@ -50,7 +50,7 @@ const App1 = () => {
                 className="swiper-slide swiper-slide-active"
                 role="group"
                 aria-label="1 / 6"
-                style={{ width: "184px", marginRight: "64px;" }}
+                style={{ width: "184px", marginRight: "64px" }}
               >
                 <a
                   href="shop-collection-list.html"
@@ -515,19 +515,20 @@ const App1 = () => {
                       </div>
                       <div className="variant-box bg-primary">
                         <div
-                          className="infiniteslide_wrap"
-                          style={{ overflow: "hidden;" }}
+                          className=""
+                          style={{ overflow: "hidden" }}
                         >
                           <div
-                            className="marquee-sale type-2 infiniteSlide"
+                            className="marquee-sale type-2"
                             data-clone="3"
-                            data-style="infiniteslide1747649242839a2e"
+                            // data-style="infiniteslide1747649242839a2e"
                             style={{
                               display: "flex",
                               flexFlow: "row",
                               alignItems: "center",
                               animation:
-                                "9.08625s linear 0s infinite normal none running infiniteslide1747649242839a2e",
+                              // "9.08625s linear 0s infinite normal none running infiniteslide1747649242839a2e",
+                              "9.08625s linear 0s infinite normal none running infiniteslide",
                             }}
                           >
                             <p
@@ -538,28 +539,6 @@ const App1 = () => {
                             </p>
                             <i
                               className="icon-thunder text-white"
-                              style={{ flex: "0 0 auto", display: "block;" }}
-                            ></i>
-
-                            <p
-                              className="text-caption text-white"
-                              style={{ flex: "0 0 auto", display: "block;" }}
-                            >
-                              Selling fast
-                            </p>
-                            <i
-                              className="icon-thunder text-white"
-                              style={{ flex: "0 0 auto", display: "block" }}
-                            ></i>
-
-                            <p
-                              className="text-caption text-white"
-                              style={{ flex: "0 0 auto", display: "block" }}
-                            >
-                              30% OFF
-                            </p>
-                            <i
-                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
 
@@ -595,194 +574,216 @@ const App1 = () => {
                               className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
+
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               30% OFF
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
+
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               Selling fast
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               30% OFF
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               Selling fast
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               30% OFF
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               Selling fast
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               30% OFF
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               Selling fast
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               30% OFF
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               Selling fast
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               30% OFF
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               Selling fast
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               30% OFF
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               Selling fast
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               30% OFF
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               Selling fast
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
-                              style={{ flex: "0 0 auto", display: "block" }}
-                            >
-                              Selling fast
-                            </p>
-                            <i
-                              className="icon-thunder text-white infiniteslide_clone"
-                              style={{ flex: "0 0 auto", display: "block" }}
-                            ></i>
-                            <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               30% OFF
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                             <p
-                              className="text-caption text-white infiniteslide_clone"
+                              className="text-caption text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             >
                               Selling fast
                             </p>
                             <i
-                              className="icon-thunder text-white infiniteslide_clone"
+                              className="icon-thunder text-white"
+                              style={{ flex: "0 0 auto", display: "block" }}
+                            ></i>
+                            <p
+                              className="text-caption text-white"
+                              style={{ flex: "0 0 auto", display: "block" }}
+                            >
+                              Selling fast
+                            </p>
+                            <i
+                              className="icon-thunder text-white"
+                              style={{ flex: "0 0 auto", display: "block" }}
+                            ></i>
+                            <p
+                              className="text-caption text-white"
+                              style={{ flex: "0 0 auto", display: "block" }}
+                            >
+                              30% OFF
+                            </p>
+                            <i
+                              className="icon-thunder text-white"
+                              style={{ flex: "0 0 auto", display: "block" }}
+                            ></i>
+                            <p
+                              className="text-caption text-white"
+                              style={{ flex: "0 0 auto", display: "block" }}
+                            >
+                              Selling fast
+                            </p>
+                            <i
+                              className="icon-thunder text-white"
                               style={{ flex: "0 0 auto", display: "block" }}
                             ></i>
                           </div>
